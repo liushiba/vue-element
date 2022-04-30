@@ -1,0 +1,7 @@
+﻿
+
+/* 大转盘样式 */
+.banner{display:block;width:98%;margin-left:auto;margin-bottom: 20px;}
+.banner .turnplate{display:block;width:100%;position:relative;}
+.banner .turnplate canvas.item{width:100%;}
+.banner .turnplate img.pointer{position:absolute;left:38%;top:18.3%;}

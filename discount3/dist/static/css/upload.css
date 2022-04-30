@@ -1,0 +1,27 @@
+﻿.upload
+{
+	width: 450px;
+	height: 45px;
+    margin: 5px 5px;
+}
+.upload H3
+{
+	margin:0;
+	padding-bottom:5px;
+	font-size:14px;
+}        
+.upload IFRAME
+{
+	text-align:center;
+	vertical-align:middle;
+	border-style:none;
+	margin:0px;
+	width:73%;
+	height:30px;
+}
+.upload .commands{ float:right; }
+.hidden { display:none; }        
+#status { float:left; }
+#status.error{ color:Red;}
+#status.info{ color:black;font-size:12px;}
+#status.success{ color:green;}
