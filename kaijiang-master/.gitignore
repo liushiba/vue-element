@@ -1,0 +1,6 @@
+# ide
+.idea/
+admin-vue/.idea/
+
+# node packages
+admin-vue/node_modules/
